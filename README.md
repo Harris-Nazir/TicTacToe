@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# TicTacToe
 **Make sure you have these installed:**
 
 To check, type pip freeze and pip install PyQt5
