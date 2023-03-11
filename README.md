@@ -6,7 +6,7 @@
 
 Once everything is ready, launch the game using:
 
-python Tic-Tac-Toe.py
+Python Tic-Tac-Toe.py
 
 **GIF!!!**
 
